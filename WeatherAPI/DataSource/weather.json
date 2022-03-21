@@ -1,0 +1,130 @@
+[
+  {
+    "coord": {
+      "lon": 11.0287364,
+      "lat": 50.9777974
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "Überwiegend bewölkt",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 10.14,
+      "feels_like": 9.17,
+      "temp_min": 8.02,
+      "temp_max": 12.64,
+      "pressure": 1025,
+      "humidity": 75
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 5.66,
+      "deg": 330
+    },
+    "clouds": { "all": 75 },
+    "dt": 1647528143,
+    "sys": {
+      "type": 2,
+      "id": 2036101,
+      "country": "DE",
+      "sunrise": 1647494751,
+      "sunset": 1647537767
+    },
+    "timezone": 3600,
+    "id": 2929670,
+    "name": "Erfurt",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 11.3296637,
+      "lat": 50.9810486
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "Bedeckt",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 10.49,
+      "feels_like": 9.24,
+      "temp_min": 8.2,
+      "temp_max": 12.45,
+      "pressure": 1030,
+      "humidity": 63,
+      "sea_level": 1030,
+      "grnd_level": 1003
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 6.18,
+      "deg": 319,
+      "gust": 6.38
+    },
+    "clouds": { "all": 100 },
+    "dt": 1647528401,
+    "sys": {
+      "type": 2,
+      "id": 2043369,
+      "country": "DE",
+      "sunrise": 1647494679,
+      "sunset": 1647537695
+    },
+    "timezone": 3600,
+    "id": 2812482,
+    "name": "Weimar",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 11.5879359,
+      "lat": 50.9281717
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "Leichter Regen",
+        "icon": "10d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 11.78,
+      "feels_like": 10.37,
+      "temp_min": 9.76,
+      "temp_max": 12.74,
+      "pressure": 1005,
+      "humidity": 52
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.45,
+      "deg": 334,
+      "gust": 2.24
+    },
+    "rain": { "1h": 0.24 },
+    "clouds": { "all": 100 },
+    "dt": 1647528620,
+    "sys": {
+      "type": 2,
+      "id": 2010771,
+      "country": "DE",
+      "sunrise": 1647494617,
+      "sunset": 1647537634
+    },
+    "timezone": 3600,
+    "id": 2895044,
+    "name": "Jena",
+    "cod": 200
+  }
+]

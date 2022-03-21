@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Erfurt",
+    "local_names": {
+      "uk": "Ерфурт",
+      "fa": "ارفورت",
+      "fr": "Erfurt",
+      "zh": "埃尔福特",
+      "la": "Erfordia",
+      "eo": "Erfurto",
+      "hy": "Էրֆուրտ",
+      "bg": "Ерфурт",
+      "ur": "ارفرٹ",
+      "am": "ኤርፉርት",
+      "de": "Erfurt",
+      "es": "Érfurt",
+      "sv": "Erfurt",
+      "af": "Erfurt",
+      "ko": "에르푸르트",
+      "lv": "Erfurte",
+      "be": "Эрфурт",
+      "ps": "ارفورت",
+      "sq": "Erfurti",
+      "ru": "Эрфурт",
+      "ja": "エアフルト",
+      "ka": "ერფურტი",
+      "el": "Ερφούρτη",
+      "sr": "Ерфурт",
+      "ar": "إرفورت",
+      "lt": "Erfurtas",
+      "nl": "Erfurt"
+    },
+    "lat": 50.9777974,
+    "lon": 11.0287364,
+    "country": "DE",
+    "state": "Thuringia"
+  },
+  {
+    "name": "Weimar",
+    "local_names": {
+      "ur": "وایمار",
+      "ar": "وايمار",
+      "cs": "Výmar",
+      "de": "Weimar",
+      "fa": "وایمار",
+      "ja": "ヴァイマル",
+      "ru": "Веймар"
+    },
+    "lat": 50.9810486,
+    "lon": 11.3296637,
+    "country": "DE",
+    "state": "Thuringia"
+  },
+  {
+    "name": "Jena",
+    "local_names": {
+      "ur": "یئنا",
+      "de": "Jena",
+      "en": "Jena",
+      "fa": "یینا",
+      "lt": "Jėna",
+      "el": "Ιένα",
+      "sr": "Јена",
+      "zh": "耶拿",
+      "fr": "Iéna",
+      "ru": "Йена",
+      "ja": "イェーナ",
+      "ar": "يينا"
+    },
+    "lat": 50.9281717,
+    "lon": 11.5879359,
+    "country": "DE",
+    "state": "Thuringia"
+  }
+]
